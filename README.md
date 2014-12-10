@@ -3,6 +3,16 @@ fintech-fab/smstraffic
 
 SMSTRAFFIC.ru API wrapper with Laravel Support
 
+Installation:
+
+	composer require fintech-fab/smstraffic
+	
+Or in composer.json:
+
+	"require": {
+        "fintech-fab/smstraffic": "4.2"
+    },
+    
 Config example (services.php): 
 
 	<?php
