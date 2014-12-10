@@ -1,0 +1,23 @@
+{
+  "name": "fintech-fab/smstraffic",
+  "description": "SMSTRAFFIC.ru API wrapper with Laravel Support",
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Vladimir Yuldashev"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "4.2.*",
+    "illuminate/config": "4.2.*",
+    "guzzlehttp/guzzle": "5.0.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "FintechFab\\Smstraffic": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
