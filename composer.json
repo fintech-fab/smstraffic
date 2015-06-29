@@ -10,8 +10,8 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "5.0.*",
-    "illuminate/config": "5.0.*",
+    "illuminate/support": "5.*",
+    "illuminate/config": "5.*",
     "guzzlehttp/guzzle": "6.*"
   },
   "autoload": {
